@@ -1,0 +1,58 @@
+const products = [
+  {
+    id: 1,
+    name: "Chunky Sneakers",
+    brand: "WalkX",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753555207/RAISE_WHT_f1a5a2ec-8a23-4795-a796-0da7455dc57a_evjeua.webp",
+    price: 2299,
+    isTrending: true,
+    rating: 4.8,
+  },
+  {
+    id: 2,
+    name: "CoalBlack Sports Wear",
+    brand: "StreetStyle",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753555604/37c95c66-82d1-4888-92ba-a9e47870f3d9.7d1da21ed0c15112d575739c0e8806aa_t3etoo.webp",
+    price: 799,
+    isTrending: true,
+    rating: 4.7,
+  },
+  {
+    id: 3,
+    name: "Colorful Top",
+    brand: "UrbanWear",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753555681/images_bq9yqw.jpg",
+    price: 1500,
+    isTrending: false,
+    rating: 4.5,
+  },
+  {
+    id: 4,
+    name: "Blue Jeans",
+    brand: "FitArmy",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753555779/MP000000022364400_437Wx649H_202405241544591_keguxd.avif",
+    price: 1200,
+    isTrending: true,
+    rating: 4.6,
+  },
+  {
+    id: 5,
+    name: "Dior Purse",
+    brand: "FitArmy",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753555838/Small-Bow-with-Flower-Dangling-Purse-Light-Blue_bb2e346a-a8bd-4a4d-a891-33f8ad798666_1.03013920366faf5fdf7f1b2152db2f6a_mk90el.webp",
+    price: 1399,
+    isTrending: false,
+    rating: 4.3,
+  },
+  {
+    id: 6,
+    name: "Formal Pant",
+    brand: "Fit",
+    image: "https://res.cloudinary.com/dakzbu1db/image/upload/v1753556033/EliteTrouser_IceGrey_4_zf5s3p.webp",
+    price: 1499,
+    isTrending: false,
+    rating: 4.4,
+  },
+];
+
+export default products;
