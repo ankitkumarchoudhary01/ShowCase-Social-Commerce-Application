@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![ShowCase Logo](https://via.placeholder.com/800x200/4F46E5/FFFFFF?text=ShowCase+-+Social+Commerce+Platform)
 
 **Discover Products Through Social Content**
 
@@ -10,9 +9,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node. js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-[Demo](https://your-demo-link.com) · [Report Bug](https://github.com/ankitkumarchoudhary01/ShowCase/issues) · [Request Feature](https://github.com/ankitkumarchoudhary01/ShowCase/issues)
+[Report Bug](https://github.com/ankitkumarchoudhary01/ShowCase/issues) · [Request Feature](https://github.com/ankitkumarchoudhary01/ShowCase/issues)
 
 </div>
 
@@ -31,12 +28,7 @@
 - [API Documentation](#api-documentation)
 - [Database Schema](#database-schema)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -557,185 +549,6 @@ Content-Type: application/json
 
 ---
 
-## 📸 Screenshots
-
-### Home Feed
-![Home Feed](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Home+Feed+Screenshot)
-*Dual feed system showing brand-sponsored and user-generated content*
-
-### Product Discovery
-![Products](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Product+Discovery)
-*Browse trending products with ratings and reviews*
-
-### Offers & Deals
-![Offers](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Exclusive+Offers)
-*Dynamic promotional offers with validity tracking*
-
-### User Profile
-![Profile](https://via.placeholder.com/800x400/EC4899/FFFFFF?text=User+Profile)
-*Comprehensive user profiles with social stats and badges*
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1: Core Features ✅ (Completed)
-- [x] User authentication and authorization
-- [x] Brand and user post feeds
-- [x] Product catalog with search
-- [x] Offer management system
-- [x] User profiles with social stats
-- [x] Cloudinary media integration
-
-### Phase 2: Enhanced Features 🚧 (In Progress)
-- [ ] Real-time notifications system
-- [ ] Advanced search with filters
-- [ ] Product recommendations (ML-based)
-- [ ] Shopping cart functionality
-- [ ] Payment gateway integration
-- [ ] Order management system
-
-### Phase 3: Social Features 📋 (Planned)
-- [ ] Follow/unfollow users and brands
-- [ ] Like and comment on posts
-- [ ] Share posts on social media
-- [ ] Direct messaging
-- [ ] Stories feature
-- [ ] Live streaming for product launches
-
-### Phase 4: Advanced Features 🔮 (Future)
-- [ ] AI-powered product recommendations
-- [ ] AR try-on for products
-- [ ] Influencer analytics dashboard
-- [ ] Affiliate marketing program
-- [ ] Multi-language support
-- [ ] Mobile app (React Native)
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-### How to Contribute
-
-1. **Fork the Project**
-   ```bash
-   # Click the 'Fork' button on GitHub
-   ```
-
-2. **Clone Your Fork**
-   ```bash
-   git clone https://github.com/your-username/ShowCase. git
-   cd ShowCase
-   ```
-
-3. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-
-4. **Make Your Changes**
-   - Write clean, documented code
-   - Follow existing code style
-   - Add comments where necessary
-
-5. **Commit Your Changes**
-   ```bash
-   git add .
-   git commit -m "Add some AmazingFeature"
-   ```
-
-6. **Push to Your Branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-
-7. **Open a Pull Request**
-   - Go to the original repository
-   - Click "New Pull Request"
-   - Describe your changes in detail
-
-### Contribution Guidelines
-
-- **Code Style**: Follow ESLint rules configured in the project
-- **Commits**: Use clear, descriptive commit messages
-- **Testing**: Test your changes thoroughly before submitting
-- **Documentation**:  Update README if adding new features
-- **Issues**: Check existing issues before creating new ones
-
-### Code of Conduct
-
-Please note we have a code of conduct, please follow it in all your interactions with the project.
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-```
-MIT License
-
-Copyright (c) 2024 Ankit Kumar Choudhary
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 📞 Contact
-
-**Ankit Kumar Choudhary**
-
-- GitHub: [@ankitkumarchoudhary01](https://github.com/ankitkumarchoudhary01)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-
-**Project Link**: [https://github.com/ankitkumarchoudhary01/ShowCase](https://github.com/ankitkumarchoudhary01/ShowCase)
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to: 
-
-- [React Documentation](https://react.dev/) - For comprehensive React guides
-- [Express.js](https://expressjs.com/) - Fast, unopinionated web framework
-- [MongoDB](https://www.mongodb.com/) - NoSQL database platform
-- [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Cloudinary](https://cloudinary.com/) - Media management platform
-- [Vite](https://vitejs.dev/) - Next generation frontend tooling
-- [Font Awesome](https://fontawesome.com/) - Icon library
-- [Shields.io](https://shields.io/) - Badge generation
-- All open-source contributors who made this project possible
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/ankitkumarchoudhary01/ShowCase?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ankitkumarchoudhary01/ShowCase?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ankitkumarchoudhary01/ShowCase?style=social)
-
----
 
 <div align="center">
 
