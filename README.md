@@ -5,8 +5,6 @@
 
 **Discover Products Through Social Content**
 
-[![Made with React](https://img.shields.io/badge/React-19. 1.0-61DAFB?logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node. js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [Report Bug](https://github.com/ankitkumarchoudhary01/ShowCase/issues) · [Request Feature](https://github.com/ankitkumarchoudhary01/ShowCase/issues)
